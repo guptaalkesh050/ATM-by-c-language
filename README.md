@@ -12,9 +12,3 @@ A simple command-line application that simulates basic Banking/ATM operations.
 - **Language:** `C`
 - **Compiler:** `GCC`
 - **IDE:** `VS Code`
-
-## 💻 How to Run
-1. Clone the repository.
-2. Compile the code:
-   ```bash
-   gcc atm.c -o atm
